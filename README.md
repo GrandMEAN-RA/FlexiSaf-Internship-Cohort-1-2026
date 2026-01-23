@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ---
 
 ## Author
-	###Opeyemi Sadiku
+	### Opeyemi Sadiku
 	GrandMEAN Research & Analytics
 	GitHub: @GrandMEAN-RA
 
