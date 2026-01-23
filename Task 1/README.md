@@ -1,16 +1,9 @@
 
 # Simulation: Game of rock, paper and scissors
 
-This project explores Deep Q-Learning applied to
-deterministic board games including Tic-Tac-Toe
-and Connect Four.
+This project is built using the python random module.
 
 ## Features
-- DQN with experience replay
-- Self-play training
-- Human vs AI mode
-- Learning visualization
+- One player versus computer mode
+- Recursive loop for game continuity
 
-## Results
-The agent converges to optimal play in Tic-Tac-Toe
-and learns strong heuristics in Connect Four.
