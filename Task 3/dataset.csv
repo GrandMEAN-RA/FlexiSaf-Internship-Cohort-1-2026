@@ -1,0 +1,26 @@
+CustomerID,Age,MonthlyBill,DataUsageGB,ContractType,TenureMonths,Churn
+CUST001,45,75.5,30.2,Month-to-month,10,Yes
+CUST002,32,120.1,65.8,One year,24,No
+CUST003,58,45.9,12.5,Two year,60,No
+CUST004,28,90,40.1,Month-to-month,5,Yes
+CUST005,62,30.2,5.7,Two year,70,No
+CUST006,39,110.5,55.3,Month-to-month,15,Yes
+CUST007,50,60.8,22.9,One year,48,No
+CUST008,25,135.7,80,Month-to-month,3,Yes
+CUST009,41,85.3,35.6,One year,36,No
+CUST010,55,50.1,18.2,Two year,65,No
+CUST011,30,105.2,50,Month-to-month,8,Yes
+CUST012,48,70,28.1,One year,40,No
+CUST013,68,25.5,3.1,Two year,72,No
+CUST014,22,140,90.5,Month-to-month,2,Yes
+CUST015,37,95.8,42.3,One year,30,No
+CUST016,53,55.6,20,Two year,55,No
+CUST017,29,115,60,Month-to-month,7,Yes
+CUST018,43,80.1,33.4,One year,45,No
+CUST019,60,35.9,8.9,Two year,68,No
+CUST020,27,125.3,70.1,Month-to-month,4,Yes
+CUST021,35,100,48,One year,20,No
+CUST022,51,65.2,25,Two year,50,No
+CUST023,24,130.5,75,Month-to-month,6,Yes
+CUST024,40,92,38,One year,33,No
+CUST025,66,28,4.5,Two year,62,No
